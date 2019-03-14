@@ -5,7 +5,7 @@
   "title": "parallax",
   "ambName": "视差滚动",
   "github": "https://github.com/o2team-ambient/parallax",
-  "demoSnippet": "<link href=\"//storage.jd.com/ambient/styles-parallax.css?t=1552531944000\" rel=\"stylesheet\"></link><!-- S 主体内容 -->\n  <div class=\"o2team_ambient_main\">\n  </div>\n  <!-- E 主体内容 --><script src=\"//storage.jd.com/ambient/bundle-parallax.js?t=1552531944000\"></script>",
-  "controlUrl": "//storage.jd.com/ambient/control-parallax.js?t=1552531944000",
-  "configUrl": "//storage.jd.com/ambient/config-parallax.js?t=1552531944000"
+  "demoSnippet": "<link href=\"//storage.jd.com/ambient/styles-parallax.css?t=1552544273000\" rel=\"stylesheet\"></link><!-- S 主体内容 -->\n  <div class=\"o2team_ambient_main\">\n  </div>\n  <!-- E 主体内容 --><script src=\"//storage.jd.com/ambient/bundle-parallax.js?t=1552544273000\"></script>",
+  "controlUrl": "//storage.jd.com/ambient/control-parallax.js?t=1552544273000",
+  "configUrl": "//storage.jd.com/ambient/config-parallax.js?t=1552544273000"
 }

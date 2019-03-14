@@ -21,8 +21,8 @@ export default class Parallax {
     
   }
 
-  init () {  
-    this.canvallax = Canvallax({ 
+  init () { 
+    this.canvallax =Canvallax({ 
       damping: this.damping, 
       parent: document.querySelector('.o2team_ambient_main'),
       fullscreen: false,

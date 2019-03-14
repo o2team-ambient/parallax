@@ -11,7 +11,7 @@
   "license": "ISC",
   "dependencies": {
     "@o2team/ambient-dat.gui": "^0.7.9",
-    "canvallax": "^2.0.0"
+    "canvallax": "^1.2.0"
   },
   "devDependencies": {
     "babel-runtime": "^6.26.0"
