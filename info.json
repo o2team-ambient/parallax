@@ -1,7 +1,7 @@
 {
   "author": "yvonnexchen",
-  "demoUrl": "http://jdc.jd.com/demo/ambient/parallax/",
-  "miniDemoUrl": "http://jdc.jd.com/demo/ambient/parallax/index_demo.html",
+  "demoUrl": "//o2team-ambient.github.io/parallax/dist/",
+  "miniDemoUrl": "//o2team-ambient.github.io/parallax/dist/index_demo.html",
   "title": "parallax",
   "ambName": "视差滚动",
   "github": "https://github.com/o2team-ambient/parallax",
