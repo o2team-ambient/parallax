@@ -31,7 +31,7 @@
     }
   }
 
-  var css = "@charset \"UTF-8\";\n/* 自定义样式 */\n/**\n * 样式重置，将不会被打包进代码包\n */\n* {\n  -webkit-tap-highlight-color: transparent;\n  outline: 0;\n  margin: 0;\n  padding: 0;\n  vertical-align: baseline; }\n\nbody {\n  margin: 0;\n  padding: 0;\n  vertical-align: baseline; }\n\n.o2team_ambient_main {\n  z-index: 999;\n  pointer-events: none;\n  height: 1000px; }\n";
+  var css = "@charset \"UTF-8\";\n/* 自定义样式 */\n.o2team_ambient_main {\n  z-index: 999;\n  pointer-events: none;\n  height: 1000px; }\n";
   styleInject(css);
 
   const id = 'parallax';
